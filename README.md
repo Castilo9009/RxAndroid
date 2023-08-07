@@ -148,10 +148,3 @@ mStreamAudioPlayer.play(
     len);
 ```
 
-See [full example](https://github.com/Piasy/RxAndroidAudio/tree/master/app) for more details.
-
-[Download demo apk](http://fir.im/RXA).
-
-## Contribution are welcome
-
-+ Please follow [my code style based on SquareAndroid](https://github.com/Piasy/java-code-styles)
