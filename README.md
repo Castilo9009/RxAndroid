@@ -1,12 +1,5 @@
 # RxAndroidAudio
 
-<img src="logotype primary.png" width="60%" height="60%" />
-
-Android Audio encapsulation library, with part Rx support.
-
-[ ![Download](https://api.bintray.com/packages/piasy/maven/RxAndroidAudio/images/download.svg) ](https://bintray.com/piasy/maven/RxAndroidAudio/_latestVersion) [![Build Status](https://travis-ci.org/Piasy/RxAndroidAudio.svg?branch=master)](https://travis-ci.org/Piasy/RxAndroidAudio)
-
-## Usage
 
 ### About lambda support
 
