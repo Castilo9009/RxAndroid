@@ -12,6 +12,7 @@ android {
         targetSdkVersion rootProject.ext.androidTargetSdkVersion
         versionCode rootProject.ext.releaseVersionCode
         versionName rootProject.ext.releaseVersionName
+        versionName rootProject.ext.releaseVersionNStatus
 
         externalNativeBuild {
             cmake {
